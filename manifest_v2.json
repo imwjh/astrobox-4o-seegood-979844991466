@@ -8,8 +8,8 @@
       "media/01-main-face_结果.png",
       "media/02-aod-face_结果.png"
     ],
-    "icon": "media/cover_main-256.png",
-    "cover": "media/00comp_i_preview.png",
+    "icon": "media/preview_0220-256.png",
+    "cover": "media/4o_cover_结果.png",
     "author": [
       {
         "name": "seegood",
@@ -31,9 +31,9 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "0.0.1",
-      "file_name": "downloads/4o.bin",
-      "versionCode": 1
+      "version": "0.0.3",
+      "file_name": "downloads/174o.bin",
+      "versionCode": 3
     }
   },
   "ext": {
